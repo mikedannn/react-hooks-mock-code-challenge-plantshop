@@ -41,6 +41,83 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "sunflower",
+      "image": "picture",
+      "price": "1",
+      "id": 8
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "sunflower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/800px-Sunflower_sky_backdrop.jpg",
+      "price": "11",
+      "id": 9
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "melon",
+      "image": "https://media.istockphoto.com/photos/cantaloupe-melon-is-growing-in-a-greenhouse-melon-is-a-large-round-picture-id1264762010?k=20&m=1264762010&s=612x612&w=0&h=G0oMwHXr09fIriuD07kMnC9O15aD2TNVB4ov2XQ3eEE=",
+      "id": 10
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "melon",
+      "id": 11
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "melon",
+      "id": 12
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "price": "0.04",
+      "id": 13
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "melon",
+      "id": 14
+    },
+    {
+      "initialNewPlant": {
+        "name": "",
+        "image": "",
+        "price": 0
+      },
+      "name": "melon",
+      "id": 15
     }
   ]
 }
